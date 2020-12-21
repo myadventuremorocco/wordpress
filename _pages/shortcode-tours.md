@@ -1,0 +1,12 @@
+---
+ID: 828
+post_title: Shortcode tours
+author: MyAdventure
+post_excerpt: ""
+layout: page
+permalink: >
+  https://www.myadventuremorocco.com/shortcode-tours/
+published: true
+post_date: 2015-09-30 09:38:45
+---
+[vc_row][vc_column][tour_category_images title_underline="on" ignore_empty="off" slides_number="4" order="ASC" orderby="name" title="Tour Category Images" sub_title="Shortcode" css_class="margin-bottom-large" parent_id=""][tour_category_icons title_underline="on" ignore_empty="off" slides_number="5" order="ASC" orderby="name" title="Tour Category Icons" sub_title="Shortocode" bg_url="http://adventure-tours.themedelight.com/wp-content/uploads/2015/09/mountain-690104_1920-optimized.jpg" parent_id="" css_class="margin-bottom-large"][tours_grid title_underline="on" description_words_limit="12" show="" number="4" price_style="default" show_categories="on" btn_more_text="View more" order="DESC" orderby="date" title="Tours Grid" sub_title="Shortcode" css_class="margin-bottom-large"][tours_list title_underline="on" description_words_limit="20" show="" number="4" show_categories="on" btn_more_text="View more" order="DESC" orderby="date" title="Tours List" sub_title="Shortcode" css_class="margin-bottom-large demo-page-shortcode-tours"][/vc_column][/vc_row][vc_row el_class="section-white padding-top-large padding-bottom-large"][vc_column offset="vc_col-md-9"][title size="small" position="center" decoration="on" underline="on" style="dark" text="Tour reviews"][tour_reviews title_underline="on" number="2" order="DESC" orderby="comment_date_gmt"][/vc_column][vc_column offset="vc_col-md-3"][vc_empty_space height="40px" el_class="visible-sm visible-xs"][title size="small" position="center" decoration="on" underline="on" style="dark" text="Tour search"][tour_search_form hide_text_field="off" title="Tour search"][/vc_column][/vc_row][vc_row][vc_column][tour_carousel title_underline="off" description_words_limit="10" show="" slides_number="3" arrow_style="light" order="DESC" orderby="date" title="Tours Carousel" sub_title="With background" tour_ids="" bg_url="http://adventure-tours.themedelight.com/wp-content/uploads/2015/09/most-popular-bg.jpg" css_class="margin-bottom-large"][tour_carousel title_underline="on" description_words_limit="20" show="" slides_number="3" arrow_style="dark" order="DESC" orderby="date" title="Tours Carousel" sub_title="Without background" tour_ids=""][/vc_column][/vc_row]
